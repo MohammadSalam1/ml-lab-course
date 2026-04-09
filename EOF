@@ -1,0 +1,11 @@
+#Enviroments
+env/
+venv/
+
+#Python
+__pycache__/
+*.pyc
+
+#Jupyter
+.ipynb_checkpoints/
+EOF
